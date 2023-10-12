@@ -9,3 +9,7 @@ User registration, user login, password change using MySQL store procedure &amp;
 
 http://localhost:3000 [default port]
 Welcome to Express ![Alt text](image.png)
+
+# create database & connect local database
+#### db_prjectuser.sql
+
